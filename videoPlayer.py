@@ -1,5 +1,3 @@
-#This file will complete the whole video
-
 #!/usr/bin/env python3
 
 import cv2

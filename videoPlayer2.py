@@ -1,5 +1,3 @@
-#This video player will can change video and limit the amount of final frames that will be displayed.
-
 #!/usr/bin/env python3
 
 import cv2
